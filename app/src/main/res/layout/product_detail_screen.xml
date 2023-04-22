@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/activity"
+        android:layout_width="200dp"
+        android:layout_height="40dp"
+        android:text=""
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="173dp"
+        tools:ignore="MissingConstraints" />
+
+    <TextView
+        android:id="@+id/weightUnit"
+        android:layout_width="200dp"
+        android:layout_height="40dp"
+        android:text=""
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="423dp"
+        tools:ignore="MissingConstraints" />
+
+    <TextView
+        android:id="@+id/weightNetto"
+        android:layout_width="200dp"
+        android:layout_height="40dp"
+        android:text=""
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="372dp"
+        tools:ignore="MissingConstraints" />
+
+    <TextView
+        android:id="@+id/weightBrutto"
+        android:layout_width="200dp"
+        android:layout_height="40dp"
+        android:text=""
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="322dp"
+        tools:ignore="MissingConstraints" />
+
+    <TextView
+        android:id="@+id/baseUnit"
+        android:layout_width="200dp"
+        android:layout_height="40dp"
+        android:text=""
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="270dp"
+        tools:ignore="MissingConstraints" />
+
+    <TextView
+        android:id="@+id/productCode"
+        android:layout_width="200dp"
+        android:layout_height="40dp"
+        android:text=""
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="126dp"
+        tools:ignore="MissingConstraints" />
+
+    <TextView
+        android:id="@+id/name"
+        android:layout_width="200dp"
+        android:layout_height="40dp"
+        android:text=""
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="27dp"
+        tools:ignore="MissingConstraints" />
+
+    <TextView
+        android:id="@+id/category"
+        android:layout_width="200dp"
+        android:layout_height="40dp"
+        android:text=""
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="221dp"
+        tools:ignore="MissingConstraints" />
+
+    <TextView
+        android:id="@+id/productLevel"
+        android:layout_width="200dp"
+        android:layout_height="40dp"
+        android:text=""
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="474dp"
+        tools:ignore="MissingConstraints" />
+
+    <TextView
+        android:id="@+id/description"
+        android:layout_width="200dp"
+        android:layout_height="40dp"
+        android:text=""
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="525dp"
+        tools:ignore="MissingConstraints" />
+
+    <TextView
+        android:id="@+id/urlWww"
+        android:layout_width="200dp"
+        android:layout_height="40dp"
+        android:text=""
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="574dp"
+        tools:ignore="MissingConstraints" />
+
+    <ImageView
+        android:id="@+id/urlImg"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:text=""
+        tools:layout_editor_absoluteX="245dp"
+        tools:layout_editor_absoluteY="16dp"
+        tools:ignore="MissingConstraints" />
+
+    <TextView
+        android:id="@+id/buy"
+        android:layout_width="200dp"
+        android:layout_height="40dp"
+        android:text=""
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="625dp"
+        tools:ignore="MissingConstraints" />
+
+    <TextView
+        android:id="@+id/sell"
+        android:layout_width="200dp"
+        android:layout_height="40dp"
+        android:text=""
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="675dp"
+        tools:ignore="MissingConstraints" />
+</androidx.constraintlayout.widget.ConstraintLayout>
